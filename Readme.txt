@@ -1,1 +1,1 @@
-informacao do projeto
+https://github.com/ipcajoao/ex1.git
